@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica.GMM\\BibliotecadeClase\\BibliotecadeClase.csproj": {}
+    "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica2022\\Practica.GMM\\BibliotecadeClase\\BibliotecadeClase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica.GMM\\BibliotecadeClase\\BibliotecadeClase.csproj": {
+    "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica2022\\Practica.GMM\\BibliotecadeClase\\BibliotecadeClase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica.GMM\\BibliotecadeClase\\BibliotecadeClase.csproj",
+        "projectUniqueName": "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica2022\\Practica.GMM\\BibliotecadeClase\\BibliotecadeClase.csproj",
         "projectName": "BibliotecadeClase",
-        "projectPath": "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica.GMM\\BibliotecadeClase\\BibliotecadeClase.csproj",
+        "projectPath": "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica2022\\Practica.GMM\\BibliotecadeClase\\BibliotecadeClase.csproj",
         "packagesPath": "C:\\Users\\RCA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica.GMM\\BibliotecadeClase\\obj\\",
+        "outputPath": "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica2022\\Practica.GMM\\BibliotecadeClase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RCA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica.GMM\\Logica\\Logica.csproj": {
-                "projectPath": "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica.GMM\\Logica\\Logica.csproj"
+              "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica2022\\Practica.GMM\\Logica\\Logica.csproj": {
+                "projectPath": "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica2022\\Practica.GMM\\Logica\\Logica.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica.GMM\\Logica\\Logica.csproj": {
+    "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica2022\\Practica.GMM\\Logica\\Logica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica.GMM\\Logica\\Logica.csproj",
+        "projectUniqueName": "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica2022\\Practica.GMM\\Logica\\Logica.csproj",
         "projectName": "Logica",
-        "projectPath": "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica.GMM\\Logica\\Logica.csproj",
+        "projectPath": "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica2022\\Practica.GMM\\Logica\\Logica.csproj",
         "packagesPath": "C:\\Users\\RCA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica.GMM\\Logica\\obj\\",
+        "outputPath": "C:\\Users\\RCA\\Desktop\\Practica2022\\Practica2022\\Practica.GMM\\Logica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RCA\\AppData\\Roaming\\NuGet\\NuGet.Config",

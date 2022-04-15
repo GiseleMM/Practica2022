@@ -1,0 +1,16 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\bin\Debug\net5.0\SobrecargaV5.exe
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\bin\Debug\net5.0\SobrecargaV5.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\bin\Debug\net5.0\SobrecargaV5.runtimeconfig.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\bin\Debug\net5.0\SobrecargaV5.runtimeconfig.dev.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\bin\Debug\net5.0\SobrecargaV5.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\bin\Debug\net5.0\ref\SobrecargaV5.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\bin\Debug\net5.0\SobrecargaV5.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\obj\Debug\net5.0\SobrecargaV5.csproj.AssemblyReference.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\obj\Debug\net5.0\SobrecargaV5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\obj\Debug\net5.0\SobrecargaV5.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\obj\Debug\net5.0\SobrecargaV5.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\obj\Debug\net5.0\SobrecargaV5.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\obj\Debug\net5.0\SobrecargaV5.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\obj\Debug\net5.0\ref\SobrecargaV5.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\obj\Debug\net5.0\SobrecargaV5.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SobrecargaV5\obj\Debug\net5.0\SobrecargaV5.genruntimeconfig.cache

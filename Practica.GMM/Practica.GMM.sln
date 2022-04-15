@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32407.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecadeClase", "BibliotecadeClase\BibliotecadeClase.csproj", "{825C1C55-6ADE-4DA6-89B5-90F8ABCE0B1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecadeClase", "BibliotecadeClase\BibliotecadeClase.csproj", "{825C1C55-6ADE-4DA6-89B5-90F8ABCE0B1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{6A9E48A2-F0F4-4AF3-A618-C8B64CF23823}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logica", "Logica\Logica.csproj", "{6A9E48A2-F0F4-4AF3-A618-C8B64CF23823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaV5", "SobrecargaV5\SobrecargaV5.csproj", "{00338577-4470-4B51-B0BB-2C707876D541}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6A9E48A2-F0F4-4AF3-A618-C8B64CF23823}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A9E48A2-F0F4-4AF3-A618-C8B64CF23823}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A9E48A2-F0F4-4AF3-A618-C8B64CF23823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00338577-4470-4B51-B0BB-2C707876D541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00338577-4470-4B51-B0BB-2C707876D541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00338577-4470-4B51-B0BB-2C707876D541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00338577-4470-4B51-B0BB-2C707876D541}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
