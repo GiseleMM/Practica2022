@@ -57,5 +57,13 @@ namespace SobrecargaV5
         {
             return !(p==g);//reutilizo la sobrecaga del operador == negandolo
         }
+        public static implicit operator long(Persona p)  //implicitamente pasa de persona p a long retorno dni
+        {
+            return p.dni;
+        }
+        public static explicit operator string(Persona p)// explicitamente con casteo string paso de persona a string retorno nombre
+        {
+            return p.nombre;
+        }
     }
 }

@@ -40,6 +40,11 @@ namespace SobrecargaV5
 
             Aula aula = new Aula();//creo objeto aula
             aula=aula+ pers1;
+
+            //------------------------SOBRECARGA DE CONVERSION-------------------------
+            long dni = pers2;
+            Console.WriteLine($"dni:{dni}");
+            Console.WriteLine($"nombre: {(string)pers2}");
             
 
 
