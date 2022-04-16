@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WinFormsLogearse
 {
-    public partial class Form1 : Form
+    public partial class Fm_Formulario : Form
     {
-        public Form1()
+        public Fm_Formulario()
         {
             InitializeComponent();
         }
@@ -28,9 +28,17 @@ namespace WinFormsLogearse
                 MessageBox.Show("Usuario logeado");
                 this.txb_password.BackColor = Color.Aquamarine;
                 this.txb_usuario.BackColor = Color.Aquamarine;
+                MenuPrincipal frmPrincipal = new MenuPrincipal(this.txb_usuario.Text.ToLower());//instansio form
+                frmPrincipal.Show();//lo muestro
+                this.Hide();//oculto login para q solo sevea el nuevo formulario
             }
         }
 
-  
+        private void btn_rellenar_Click(object sender, EventArgs e)
+        {
+            this.txb_usuario.Text = "pepe";
+            this.txb_password.Text = "888N";
+
+        }
     }
 }

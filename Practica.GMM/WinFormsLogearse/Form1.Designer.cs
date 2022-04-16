@@ -1,7 +1,7 @@
 ﻿
 namespace WinFormsLogearse
 {
-    partial class Form1
+    partial class Fm_Formulario
     {
         /// <summary>
         ///  Required designer variable.
@@ -32,6 +32,7 @@ namespace WinFormsLogearse
             this.txb_usuario = new System.Windows.Forms.TextBox();
             this.txb_password = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.btn_rellenar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txb_usuario
@@ -61,17 +62,30 @@ namespace WinFormsLogearse
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form1
+            // btn_rellenar
+            // 
+            this.btn_rellenar.Location = new System.Drawing.Point(493, 192);
+            this.btn_rellenar.Name = "btn_rellenar";
+            this.btn_rellenar.Size = new System.Drawing.Size(120, 23);
+            this.btn_rellenar.TabIndex = 3;
+            this.btn_rellenar.Text = "rellenar";
+            this.btn_rellenar.UseVisualStyleBackColor = true;
+            this.btn_rellenar.Click += new System.EventHandler(this.btn_rellenar_Click);
+            // 
+            // Fm_Formulario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btn_rellenar);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txb_password);
             this.Controls.Add(this.txb_usuario);
-            this.Name = "Form1";
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Name = "Fm_Formulario";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Logearse";
-
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -82,6 +96,7 @@ namespace WinFormsLogearse
         private System.Windows.Forms.TextBox txb_usuario;
         private System.Windows.Forms.TextBox txb_password;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btn_rellenar;
     }
 }
 
