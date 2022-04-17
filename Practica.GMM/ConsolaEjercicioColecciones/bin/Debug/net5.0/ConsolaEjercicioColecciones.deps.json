@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsolaEjercicioColecciones/1.0.0": {
+        "dependencies": {
+          "EjercicioDeColecciones": "1.0.0"
+        },
+        "runtime": {
+          "ConsolaEjercicioColecciones.dll": {}
+        }
+      },
+      "EjercicioDeColecciones/1.0.0": {
+        "runtime": {
+          "EjercicioDeColecciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolaEjercicioColecciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EjercicioDeColecciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

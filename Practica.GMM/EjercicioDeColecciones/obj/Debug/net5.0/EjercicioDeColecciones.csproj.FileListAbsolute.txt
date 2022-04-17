@@ -1,0 +1,12 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\EjercicioDeColecciones\bin\Debug\net5.0\EjercicioDeColecciones.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\EjercicioDeColecciones\bin\Debug\net5.0\EjercicioDeColecciones.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\EjercicioDeColecciones\bin\Debug\net5.0\ref\EjercicioDeColecciones.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\EjercicioDeColecciones\bin\Debug\net5.0\EjercicioDeColecciones.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\EjercicioDeColecciones\obj\Debug\net5.0\EjercicioDeColecciones.csproj.AssemblyReference.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\EjercicioDeColecciones\obj\Debug\net5.0\EjercicioDeColecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\EjercicioDeColecciones\obj\Debug\net5.0\EjercicioDeColecciones.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\EjercicioDeColecciones\obj\Debug\net5.0\EjercicioDeColecciones.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\EjercicioDeColecciones\obj\Debug\net5.0\EjercicioDeColecciones.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\EjercicioDeColecciones\obj\Debug\net5.0\EjercicioDeColecciones.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\EjercicioDeColecciones\obj\Debug\net5.0\ref\EjercicioDeColecciones.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\EjercicioDeColecciones\obj\Debug\net5.0\EjercicioDeColecciones.pdb
