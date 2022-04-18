@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsLogearse", "WinForm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecciones", "Colecciones\Colecciones.csproj", "{0287F796-0771-44E2-BAFF-E7AED23F5B85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioDeColecciones", "EjercicioDeColecciones\EjercicioDeColecciones.csproj", "{A2938247-7F2F-4CBB-81CD-AE7F7B22B853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioDeColecciones", "EjercicioDeColecciones\EjercicioDeColecciones.csproj", "{A2938247-7F2F-4CBB-81CD-AE7F7B22B853}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolaEjercicioColecciones", "ConsolaEjercicioColecciones\ConsolaEjercicioColecciones.csproj", "{9315B229-3DB1-4525-88F5-071E0AC2F0CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaEjercicioColecciones", "ConsolaEjercicioColecciones\ConsolaEjercicioColecciones.csproj", "{9315B229-3DB1-4525-88F5-071E0AC2F0CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{3E6A92CB-C866-4247-B486-2A9E0F70FEB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{9315B229-3DB1-4525-88F5-071E0AC2F0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9315B229-3DB1-4525-88F5-071E0AC2F0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9315B229-3DB1-4525-88F5-071E0AC2F0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6A92CB-C866-4247-B486-2A9E0F70FEB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6A92CB-C866-4247-B486-2A9E0F70FEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6A92CB-C866-4247-B486-2A9E0F70FEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6A92CB-C866-4247-B486-2A9E0F70FEB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

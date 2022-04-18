@@ -49,7 +49,7 @@ namespace EjercicioDeColecciones
         }
         public void MostrarEquipo()
         {
-         
+           
             foreach (Jugador item in listaJugadores)
             {
                 if(item is not null)
@@ -59,6 +59,18 @@ namespace EjercicioDeColecciones
             }
           
         }
+        public static void AgregarJugador(Equipo equipo1, Jugador jugador1)
+        {
+            if (equipo1 + jugador1)
+            {
+                Console.WriteLine($"jugador agregar a equipo{jugador1.MostrarDatos()}");
+            }
+            else
+            {
+                Console.WriteLine($"no  se pudo agregrar a equipo {jugador1.MostrarDatos()}");
+            }
+        }
+
 
 
 

@@ -18,26 +18,28 @@ namespace ConsolaEjercicioColecciones
             //TRUCO si quiero cambiar algo en muchos lados CTROL +RRR y cambia en todoas los lugares
 
             //-=equipo + jugador1; - es un opeaador de desacrte no importa lo q retorne lo descarte
-            AgregarJugador(equipo, jugador1);
-            AgregarJugador(equipo, jugador2);
-            AgregarJugador(equipo, jugador3);
-            AgregarJugador(equipo, jugador4);
+            Equipo.AgregarJugador(equipo, jugador1);//llamo Clase.MetdoStatico(paso objetos)
+            Equipo.AgregarJugador(equipo, jugador2);
+            Equipo.AgregarJugador(equipo, jugador3);
+            Equipo.AgregarJugador(equipo, jugador4);
             Console.WriteLine("Equipo");
-            equipo.MostrarEquipo();
+            equipo.MostrarEquipo();//de instancia ¿¿¿Como hacerlo para q lo retorne y yo lo muestre en vez de mostrarlo por el metodo????
         
 
         }
-        static void AgregarJugador(Equipo equipo1, Jugador jugador1)
-        {
-            if (equipo1 + jugador1)
-            {
-                Console.WriteLine($"jugador agregar a equipo{jugador1.MostrarDatos()}");
-            }
-            else
-            {
-                Console.WriteLine($"no  se pudo agregrar a equipo {jugador1.MostrarDatos()}");
-            }
-        }
+        //static void AgregarJugador(Equipo equipo1, Jugador jugador1)  >>>>>>>>>>>LO pase a Clase Equipo como metodo public static
+        //{
+        //    if (equipo1 + jugador1)
+        //    {
+        //        Console.WriteLine($"jugador agregar a equipo{jugador1.MostrarDatos()}");
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine($"no  se pudo agregrar a equipo {jugador1.MostrarDatos()}");
+        //    }
+        //}
 
     }
 }
+
+
