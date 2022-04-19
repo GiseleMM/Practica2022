@@ -25,6 +25,7 @@ namespace UI
  *  
  *  TEXTBoX hay uuna propiedad q te deja solo ingresar numeros
  *  pero mejor usar tryParse
+ *  MATH.Round(6428.3535,5)redondea con 5 lugares despues de la coma
  */
 
 

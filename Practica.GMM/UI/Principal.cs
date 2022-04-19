@@ -34,10 +34,11 @@ namespace UI
             DialogResult resultado = frmJugador.ShowDialog();// modal espera respuesta
             if (resultado == DialogResult.OK)
             {
-                listaJugadores.Add(frmJugador.GetJugador());//cargo en la lista
-                                                            //MessageBox.Show($"jugador cargado en lista: {"\n"}{frmJugador.GetJugador().MostrarJUgador()}");
-
-                this.rtb_mostrarJugadores.Text += frmJugador.GetJugador().MostrarJUgador()+"\n";
+                //listaJugadores.Add(frmJugador.GetJugador());cargo en la lista
+                //MessageBox.Show($"jugador cargado en lista: {"\n"}{frmJugador.GetJugador().MostrarJUgador()}");
+                //this.rtb_mostrarJugadores.Text += frmJugador.GetJugador().MostrarJUgador()+"\n";
+                listaJugadores.Add(frmJugador.Jugador);// uso la propiedad para   obtener el jugador del formulario de Alta 
+                this.rtb_mostrarJugadores.Text += frmJugador.Jugador.MostrarJUgador()+ "\n";
                
                 //this.rtb_informacion.Text += listaAlumnos[indiceLibre].MostrarAlumno() + "\n";
               

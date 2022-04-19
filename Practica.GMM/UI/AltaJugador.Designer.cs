@@ -30,11 +30,11 @@ namespace UI
         private void InitializeComponent()
         {
             this.txb_nombre = new System.Windows.Forms.TextBox();
-            this.txb_posicion = new System.Windows.Forms.TextBox();
             this.txb_dni = new System.Windows.Forms.TextBox();
             this.txb_goles = new System.Windows.Forms.TextBox();
             this.btn_aceptar = new System.Windows.Forms.Button();
             this.btn_cancel = new System.Windows.Forms.Button();
+            this.cbx_posicion = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // txb_nombre
@@ -44,14 +44,6 @@ namespace UI
             this.txb_nombre.PlaceholderText = "Ingrese nombre";
             this.txb_nombre.Size = new System.Drawing.Size(100, 23);
             this.txb_nombre.TabIndex = 0;
-            // 
-            // txb_posicion
-            // 
-            this.txb_posicion.Location = new System.Drawing.Point(344, 116);
-            this.txb_posicion.Name = "txb_posicion";
-            this.txb_posicion.PlaceholderText = "Ingrese posicion";
-            this.txb_posicion.Size = new System.Drawing.Size(100, 23);
-            this.txb_posicion.TabIndex = 1;
             // 
             // txb_dni
             // 
@@ -89,19 +81,29 @@ namespace UI
             this.btn_cancel.UseVisualStyleBackColor = true;
             this.btn_cancel.Click += new System.EventHandler(this.btn_cancel_Click);
             // 
+            // cbx_posicion
+            // 
+            this.cbx_posicion.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbx_posicion.FormattingEnabled = true;
+            this.cbx_posicion.Location = new System.Drawing.Point(335, 116);
+            this.cbx_posicion.Name = "cbx_posicion";
+            this.cbx_posicion.Size = new System.Drawing.Size(121, 23);
+            this.cbx_posicion.TabIndex = 6;
+            // 
             // AltaJugador
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.cbx_posicion);
             this.Controls.Add(this.btn_cancel);
             this.Controls.Add(this.btn_aceptar);
             this.Controls.Add(this.txb_goles);
             this.Controls.Add(this.txb_dni);
-            this.Controls.Add(this.txb_posicion);
             this.Controls.Add(this.txb_nombre);
             this.Name = "AltaJugador";
             this.Text = "AltaJugador";
+            this.Load += new System.EventHandler(this.AltaJugador_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -110,10 +112,10 @@ namespace UI
         #endregion
 
         private System.Windows.Forms.TextBox txb_nombre;
-        private System.Windows.Forms.TextBox txb_posicion;
         private System.Windows.Forms.TextBox txb_dni;
         private System.Windows.Forms.TextBox txb_goles;
         private System.Windows.Forms.Button btn_aceptar;
         private System.Windows.Forms.Button btn_cancel;
+        private System.Windows.Forms.ComboBox cbx_posicion;
     }
 }
