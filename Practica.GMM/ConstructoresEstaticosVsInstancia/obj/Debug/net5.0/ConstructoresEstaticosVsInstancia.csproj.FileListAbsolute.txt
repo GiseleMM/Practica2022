@@ -1,0 +1,16 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\bin\Debug\net5.0\ConstructoresEstaticosVsInstancia.exe
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\bin\Debug\net5.0\ConstructoresEstaticosVsInstancia.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\bin\Debug\net5.0\ConstructoresEstaticosVsInstancia.runtimeconfig.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\bin\Debug\net5.0\ConstructoresEstaticosVsInstancia.runtimeconfig.dev.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\bin\Debug\net5.0\ConstructoresEstaticosVsInstancia.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\bin\Debug\net5.0\ref\ConstructoresEstaticosVsInstancia.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\bin\Debug\net5.0\ConstructoresEstaticosVsInstancia.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\obj\Debug\net5.0\ConstructoresEstaticosVsInstancia.csproj.AssemblyReference.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\obj\Debug\net5.0\ConstructoresEstaticosVsInstancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\obj\Debug\net5.0\ConstructoresEstaticosVsInstancia.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\obj\Debug\net5.0\ConstructoresEstaticosVsInstancia.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\obj\Debug\net5.0\ConstructoresEstaticosVsInstancia.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\obj\Debug\net5.0\ConstructoresEstaticosVsInstancia.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\obj\Debug\net5.0\ref\ConstructoresEstaticosVsInstancia.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\obj\Debug\net5.0\ConstructoresEstaticosVsInstancia.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ConstructoresEstaticosVsInstancia\obj\Debug\net5.0\ConstructoresEstaticosVsInstancia.genruntimeconfig.cache
