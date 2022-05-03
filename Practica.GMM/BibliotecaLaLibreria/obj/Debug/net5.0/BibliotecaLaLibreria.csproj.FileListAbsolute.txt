@@ -1,0 +1,12 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\BibliotecaLaLibreria\obj\Debug\net5.0\BibliotecaLaLibreria.csproj.AssemblyReference.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\BibliotecaLaLibreria\obj\Debug\net5.0\BibliotecaLaLibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\BibliotecaLaLibreria\obj\Debug\net5.0\BibliotecaLaLibreria.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\BibliotecaLaLibreria\obj\Debug\net5.0\BibliotecaLaLibreria.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\BibliotecaLaLibreria\obj\Debug\net5.0\BibliotecaLaLibreria.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\BibliotecaLaLibreria\bin\Debug\net5.0\BibliotecaLaLibreria.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\BibliotecaLaLibreria\bin\Debug\net5.0\BibliotecaLaLibreria.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\BibliotecaLaLibreria\bin\Debug\net5.0\ref\BibliotecaLaLibreria.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\BibliotecaLaLibreria\bin\Debug\net5.0\BibliotecaLaLibreria.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\BibliotecaLaLibreria\obj\Debug\net5.0\BibliotecaLaLibreria.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\BibliotecaLaLibreria\obj\Debug\net5.0\ref\BibliotecaLaLibreria.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\BibliotecaLaLibreria\obj\Debug\net5.0\BibliotecaLaLibreria.pdb

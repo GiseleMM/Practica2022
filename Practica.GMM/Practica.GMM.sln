@@ -31,7 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructoresEstaticosVsIns
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sobrecargas", "Sobrecargas\Sobrecargas.csproj", "{70EBECE1-16B6-4FB5-B012-43EB6F7C23DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logearse", "Logearse\Logearse.csproj", "{3F6AB327-AF46-4E14-A102-120FBEF69775}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logearse", "Logearse\Logearse.csproj", "{3F6AB327-AF46-4E14-A102-120FBEF69775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaLaLibreria", "BibliotecaLaLibreria\BibliotecaLaLibreria.csproj", "{C95D6A87-61CD-4F68-A4B5-10CCF853AAFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaLibreria", "LaLibreria\LaLibreria.csproj", "{88D3924F-5FCD-4AFF-BB84-754EF7FB04DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{3F6AB327-AF46-4E14-A102-120FBEF69775}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F6AB327-AF46-4E14-A102-120FBEF69775}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F6AB327-AF46-4E14-A102-120FBEF69775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C95D6A87-61CD-4F68-A4B5-10CCF853AAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95D6A87-61CD-4F68-A4B5-10CCF853AAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95D6A87-61CD-4F68-A4B5-10CCF853AAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95D6A87-61CD-4F68-A4B5-10CCF853AAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D3924F-5FCD-4AFF-BB84-754EF7FB04DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D3924F-5FCD-4AFF-BB84-754EF7FB04DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D3924F-5FCD-4AFF-BB84-754EF7FB04DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D3924F-5FCD-4AFF-BB84-754EF7FB04DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

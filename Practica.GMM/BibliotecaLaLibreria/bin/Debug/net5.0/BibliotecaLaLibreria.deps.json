@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BibliotecaLaLibreria/1.0.0": {
+        "runtime": {
+          "BibliotecaLaLibreria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaLaLibreria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
