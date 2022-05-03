@@ -28,6 +28,11 @@ namespace Logearse
 
         private void FrmMenu_FormClosing(object sender, FormClosingEventArgs e)
         {
+            // para no permitir que el usuario cierre el form
+            //if(e.CloseReason == CloseReason.UserClosing)
+            //{
+            //    e.Cancel = true;
+            //}
             Application.Exit();
         }
     }

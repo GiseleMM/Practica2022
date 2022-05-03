@@ -17,3 +17,4 @@ C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Logearse\obj\Debug\n
 C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Logearse\obj\Debug\net5.0-windows\Logearse.pdb
 C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Logearse\obj\Debug\net5.0-windows\Logearse.genruntimeconfig.cache
 C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Logearse\obj\Debug\net5.0-windows\Logearse.FrmMenu.resources
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Logearse\obj\Debug\net5.0-windows\Logearse.Properties.Resources.resources
