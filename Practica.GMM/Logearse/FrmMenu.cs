@@ -35,5 +35,10 @@ namespace Logearse
             //}
             Application.Exit();
         }
+
+        private void bt_agragar_Click(object sender, EventArgs e)
+        {
+            this.lbx_listBox.Items.Add("Agrego algo a listBox");
+        }
     }
 }
