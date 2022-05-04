@@ -29,14 +29,14 @@ namespace BibliotecaLaLibreria
         {
             get
             {
-                return 0;
+                return this.importe;
             }
         }
         public int Stock
         {
             get
             {
-                return 0;
+                return this.stock;
             }
             set
             {

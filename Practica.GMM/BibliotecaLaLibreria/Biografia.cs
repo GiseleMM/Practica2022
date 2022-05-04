@@ -47,7 +47,7 @@ namespace BibliotecaLaLibreria
         public static explicit operator Biografia(string nombre)
         {
             Biografia b = null;
-            if (string.IsNullOrEmpty(nombre))
+            if (!string.IsNullOrEmpty(nombre))
             {
                 b = new Biografia(nombre);
             }

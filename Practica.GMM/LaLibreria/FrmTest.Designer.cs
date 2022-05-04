@@ -30,21 +30,21 @@ namespace LaLibreria
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.listBox1 = new System.Windows.Forms.ListBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.lst_Stock = new System.Windows.Forms.ListBox();
+            this.btn_vender = new System.Windows.Forms.Button();
+            this.btn_verInforme = new System.Windows.Forms.Button();
+            this.btn_salir = new System.Windows.Forms.Button();
+            this.rtb_Informe = new System.Windows.Forms.RichTextBox();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.listBox1);
-            this.groupBox1.Controls.Add(this.button1);
-            this.groupBox1.Controls.Add(this.button2);
-            this.groupBox1.Controls.Add(this.button3);
-            this.groupBox1.Controls.Add(this.richTextBox1);
+            this.groupBox1.Controls.Add(this.lst_Stock);
+            this.groupBox1.Controls.Add(this.btn_vender);
+            this.groupBox1.Controls.Add(this.btn_verInforme);
+            this.groupBox1.Controls.Add(this.btn_salir);
+            this.groupBox1.Controls.Add(this.rtb_Informe);
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(776, 433);
@@ -52,49 +52,53 @@ namespace LaLibreria
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "groupBox1";
             // 
-            // listBox1
+            // lst_Stock
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 15;
-            this.listBox1.Location = new System.Drawing.Point(44, 30);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(286, 214);
-            this.listBox1.TabIndex = 2;
+            this.lst_Stock.FormattingEnabled = true;
+            this.lst_Stock.ItemHeight = 15;
+            this.lst_Stock.Location = new System.Drawing.Point(44, 30);
+            this.lst_Stock.Name = "lst_Stock";
+            this.lst_Stock.Size = new System.Drawing.Size(286, 214);
+            this.lst_Stock.TabIndex = 2;
+         //BORRADO   this.lst_Stock.SelectedIndexChanged += new System.EventHandler(this.lst_Stock_SelectedIndexChanged);
             // 
-            // button1
+            // btn_vender
             // 
-            this.button1.Location = new System.Drawing.Point(44, 267);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(286, 32);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btn_vender.Location = new System.Drawing.Point(44, 267);
+            this.btn_vender.Name = "btn_vender";
+            this.btn_vender.Size = new System.Drawing.Size(286, 32);
+            this.btn_vender.TabIndex = 3;
+            this.btn_vender.Text = "Vender";
+            this.btn_vender.UseVisualStyleBackColor = true;
+            this.btn_vender.Click += new System.EventHandler(this.btn_vender_Click);
             // 
-            // button2
+            // btn_verInforme
             // 
-            this.button2.Location = new System.Drawing.Point(44, 312);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(286, 32);
-            this.button2.TabIndex = 4;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btn_verInforme.Location = new System.Drawing.Point(44, 312);
+            this.btn_verInforme.Name = "btn_verInforme";
+            this.btn_verInforme.Size = new System.Drawing.Size(286, 32);
+            this.btn_verInforme.TabIndex = 4;
+            this.btn_verInforme.Text = "Ver Informe";
+            this.btn_verInforme.UseVisualStyleBackColor = true;
+            this.btn_verInforme.Click += new System.EventHandler(this.btn_verInforme_Click);
             // 
-            // button3
+            // btn_salir
             // 
-            this.button3.Location = new System.Drawing.Point(44, 355);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(286, 32);
-            this.button3.TabIndex = 5;
-            this.button3.Text = "button3";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btn_salir.Location = new System.Drawing.Point(44, 355);
+            this.btn_salir.Name = "btn_salir";
+            this.btn_salir.Size = new System.Drawing.Size(286, 32);
+            this.btn_salir.TabIndex = 5;
+            this.btn_salir.Text = "Salir";
+            this.btn_salir.UseVisualStyleBackColor = true;
+            this.btn_salir.Click += new System.EventHandler(this.btn_salir_Click);
             // 
-            // richTextBox1
+            // rtb_Informe
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(350, 30);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(382, 357);
-            this.richTextBox1.TabIndex = 6;
-            this.richTextBox1.Text = "";
+            this.rtb_Informe.Location = new System.Drawing.Point(350, 30);
+            this.rtb_Informe.Name = "rtb_Informe";
+            this.rtb_Informe.Size = new System.Drawing.Size(382, 357);
+            this.rtb_Informe.TabIndex = 6;
+            this.rtb_Informe.Text = "";
             // 
             // FrmTest
             // 
@@ -118,11 +122,11 @@ namespace LaLibreria
         #endregion
 
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.ListBox listBox1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.ListBox lst_Stock;
+        private System.Windows.Forms.Button btn_vender;
+        private System.Windows.Forms.Button btn_verInforme;
+        private System.Windows.Forms.Button btn_salir;
+        private System.Windows.Forms.RichTextBox rtb_Informe;
     }
 }
 

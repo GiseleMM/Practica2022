@@ -20,7 +20,7 @@ namespace BibliotecaLaLibreria
         {
             this.nombre = nombre;
         }
-        public string ObtenerInformeDeVentas(Vendedor vendedor)
+        public static string ObtenerInformeDeVentas(Vendedor vendedor)
         {
             float acumuladorImporte = 0;
             StringBuilder sb = new StringBuilder();
@@ -31,8 +31,10 @@ namespace BibliotecaLaLibreria
             foreach (Publicacion item in vendedor.ventas)
             {
                 sb.Append($"{item.ObtenerInformacion()}");
-                acumuladorImporte = +item.Importe;
+                acumuladorImporte +=item.Importe;
             }
+            sb.AppendLine($"PUBLICACION : ");
+            sb.AppendLine("---------------------------");
             sb.AppendLine($"Ganancias Total: $ {acumuladorImporte.ToString()}");
             return sb.ToString();
         }
