@@ -1,0 +1,16 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\bin\Debug\net5.0\Sabado7Excepciones.exe
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\bin\Debug\net5.0\Sabado7Excepciones.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\bin\Debug\net5.0\Sabado7Excepciones.runtimeconfig.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\bin\Debug\net5.0\Sabado7Excepciones.runtimeconfig.dev.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\bin\Debug\net5.0\Sabado7Excepciones.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\bin\Debug\net5.0\ref\Sabado7Excepciones.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\bin\Debug\net5.0\Sabado7Excepciones.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\obj\Debug\net5.0\Sabado7Excepciones.csproj.AssemblyReference.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\obj\Debug\net5.0\Sabado7Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\obj\Debug\net5.0\Sabado7Excepciones.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\obj\Debug\net5.0\Sabado7Excepciones.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\obj\Debug\net5.0\Sabado7Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\obj\Debug\net5.0\Sabado7Excepciones.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\obj\Debug\net5.0\ref\Sabado7Excepciones.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\obj\Debug\net5.0\Sabado7Excepciones.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Sabado7Excepciones\obj\Debug\net5.0\Sabado7Excepciones.genruntimeconfig.cache
