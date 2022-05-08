@@ -1,0 +1,16 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\bin\Debug\net5.0\Herencia2.exe
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\bin\Debug\net5.0\Herencia2.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\bin\Debug\net5.0\Herencia2.runtimeconfig.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\bin\Debug\net5.0\Herencia2.runtimeconfig.dev.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\bin\Debug\net5.0\Herencia2.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\bin\Debug\net5.0\ref\Herencia2.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\bin\Debug\net5.0\Herencia2.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\obj\Debug\net5.0\Herencia2.csproj.AssemblyReference.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\obj\Debug\net5.0\Herencia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\obj\Debug\net5.0\Herencia2.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\obj\Debug\net5.0\Herencia2.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\obj\Debug\net5.0\Herencia2.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\obj\Debug\net5.0\Herencia2.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\obj\Debug\net5.0\ref\Herencia2.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\obj\Debug\net5.0\Herencia2.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Herencia2\obj\Debug\net5.0\Herencia2.genruntimeconfig.cache

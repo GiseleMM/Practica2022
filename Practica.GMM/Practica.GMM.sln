@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LaLibreria", "LaLibreria\La
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecciones2", "Colecciones2\Colecciones2.csproj", "{FB35386F-05F8-4237-84DA-175BB65143E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sabado7Excepciones", "Sabado7Excepciones\Sabado7Excepciones.csproj", "{9CD1ECAE-B798-4065-8D6B-06E5378D53BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sabado7Excepciones", "Sabado7Excepciones\Sabado7Excepciones.csproj", "{9CD1ECAE-B798-4065-8D6B-06E5378D53BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia", "Herencia2\Herencia.csproj", "{86A53075-CDF1-46E8-933C-AA659779146D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{9CD1ECAE-B798-4065-8D6B-06E5378D53BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CD1ECAE-B798-4065-8D6B-06E5378D53BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CD1ECAE-B798-4065-8D6B-06E5378D53BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A53075-CDF1-46E8-933C-AA659779146D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A53075-CDF1-46E8-933C-AA659779146D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A53075-CDF1-46E8-933C-AA659779146D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A53075-CDF1-46E8-933C-AA659779146D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
