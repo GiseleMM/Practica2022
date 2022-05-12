@@ -24,6 +24,12 @@ namespace Herencia2
             {
                 Program.Imprimir(item);
             }
+
+
+            //Guardo en un puntero(referencia) de  publiccion una istancia de LIBRO
+            Publicacion p2 = new Libro("boosj", "hhah", 7);
+            Console.WriteLine(p2.MostrarDatos());// LLAMA al Meto MOstrarDATOS de PUBLICACION me dice el getType que es un libro pero aun asi llam al met de publicacion xq el compilador es el q llama al metodo
+            Console.WriteLine(((Libro)p2).MostrarDatos());// lo CASTEO a la instancia original,  
             
         }
 

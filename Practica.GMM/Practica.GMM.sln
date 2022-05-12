@@ -41,7 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecciones2", "Colecciones
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sabado7Excepciones", "Sabado7Excepciones\Sabado7Excepciones.csproj", "{9CD1ECAE-B798-4065-8D6B-06E5378D53BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia", "Herencia2\Herencia.csproj", "{86A53075-CDF1-46E8-933C-AA659779146D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herencia", "Herencia2\Herencia.csproj", "{86A53075-CDF1-46E8-933C-AA659779146D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excepciones", "Excepciones\Excepciones.csproj", "{4F5FA6EB-8FB8-4247-82B7-14B2A59C8EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcepcionesWindowsForms", "ExcepcionesWindowsForms\ExcepcionesWindowsForms.csproj", "{69674861-1FF4-4405-A85D-24E25C6F71D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{86A53075-CDF1-46E8-933C-AA659779146D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86A53075-CDF1-46E8-933C-AA659779146D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86A53075-CDF1-46E8-933C-AA659779146D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F5FA6EB-8FB8-4247-82B7-14B2A59C8EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5FA6EB-8FB8-4247-82B7-14B2A59C8EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5FA6EB-8FB8-4247-82B7-14B2A59C8EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5FA6EB-8FB8-4247-82B7-14B2A59C8EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69674861-1FF4-4405-A85D-24E25C6F71D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69674861-1FF4-4405-A85D-24E25C6F71D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69674861-1FF4-4405-A85D-24E25C6F71D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69674861-1FF4-4405-A85D-24E25C6F71D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

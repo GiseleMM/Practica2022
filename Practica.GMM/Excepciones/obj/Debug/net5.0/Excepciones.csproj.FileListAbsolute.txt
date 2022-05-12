@@ -1,0 +1,16 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\bin\Debug\net5.0\Excepciones.exe
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\bin\Debug\net5.0\Excepciones.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\bin\Debug\net5.0\Excepciones.runtimeconfig.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\bin\Debug\net5.0\Excepciones.runtimeconfig.dev.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\bin\Debug\net5.0\Excepciones.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\bin\Debug\net5.0\ref\Excepciones.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\bin\Debug\net5.0\Excepciones.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\obj\Debug\net5.0\Excepciones.csproj.AssemblyReference.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\obj\Debug\net5.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\obj\Debug\net5.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\obj\Debug\net5.0\Excepciones.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\obj\Debug\net5.0\ref\Excepciones.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\obj\Debug\net5.0\Excepciones.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Excepciones\obj\Debug\net5.0\Excepciones.genruntimeconfig.cache
