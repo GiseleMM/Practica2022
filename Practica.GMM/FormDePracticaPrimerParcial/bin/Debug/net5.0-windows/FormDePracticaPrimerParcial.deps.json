@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FormDePracticaPrimerParcial/1.0.0": {
+        "dependencies": {
+          "BibliotecaPracticaPrimerParcial": "1.0.0"
+        },
+        "runtime": {
+          "FormDePracticaPrimerParcial.dll": {}
+        }
+      },
+      "BibliotecaPracticaPrimerParcial/1.0.0": {
+        "runtime": {
+          "BibliotecaPracticaPrimerParcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormDePracticaPrimerParcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaPracticaPrimerParcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
