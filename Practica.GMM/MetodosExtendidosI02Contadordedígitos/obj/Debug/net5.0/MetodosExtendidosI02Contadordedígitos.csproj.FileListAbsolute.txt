@@ -1,0 +1,15 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\bin\Debug\net5.0\MetodosExtendidosI02Contadordedígitos.exe
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\bin\Debug\net5.0\MetodosExtendidosI02Contadordedígitos.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\bin\Debug\net5.0\MetodosExtendidosI02Contadordedígitos.runtimeconfig.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\bin\Debug\net5.0\MetodosExtendidosI02Contadordedígitos.runtimeconfig.dev.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\bin\Debug\net5.0\MetodosExtendidosI02Contadordedígitos.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\bin\Debug\net5.0\ref\MetodosExtendidosI02Contadordedígitos.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\bin\Debug\net5.0\MetodosExtendidosI02Contadordedígitos.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\obj\Debug\net5.0\MetodosExtendidosI02Contadordedígitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\obj\Debug\net5.0\MetodosExtendidosI02Contadordedígitos.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\obj\Debug\net5.0\MetodosExtendidosI02Contadordedígitos.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\obj\Debug\net5.0\MetodosExtendidosI02Contadordedígitos.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\obj\Debug\net5.0\MetodosExtendidosI02Contadordedígitos.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\obj\Debug\net5.0\ref\MetodosExtendidosI02Contadordedígitos.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\obj\Debug\net5.0\MetodosExtendidosI02Contadordedígitos.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\MetodosExtendidosI02Contadordedígitos\obj\Debug\net5.0\MetodosExtendidosI02Contadordedígitos.genruntimeconfig.cache

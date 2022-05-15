@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MetodosExtendidosI02Contadordedígitos/1.0.0": {
+        "runtime": {
+          "MetodosExtendidosI02Contadordedígitos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MetodosExtendidosI02Contadordedígitos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
