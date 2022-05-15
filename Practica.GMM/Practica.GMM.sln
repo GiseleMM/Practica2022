@@ -47,9 +47,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excepciones", "Excepciones\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcepcionesWindowsForms", "ExcepcionesWindowsForms\ExcepcionesWindowsForms.csproj", "{69674861-1FF4-4405-A85D-24E25C6F71D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaPracticaPrimerParcial", "BibliotecaPracticaPrimerParcial\BibliotecaPracticaPrimerParcial.csproj", "{A0D71829-F77A-4B72-90CB-842A6C4E4218}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaPracticaPrimerParcial", "BibliotecaPracticaPrimerParcial\BibliotecaPracticaPrimerParcial.csproj", "{A0D71829-F77A-4B72-90CB-842A6C4E4218}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormDePracticaPrimerParcial", "FormDePracticaPrimerParcial\FormDePracticaPrimerParcial.csproj", "{55BD9D6B-84C6-45E6-BF5D-7563A98A951E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormDePracticaPrimerParcial", "FormDePracticaPrimerParcial\FormDePracticaPrimerParcial.csproj", "{55BD9D6B-84C6-45E6-BF5D-7563A98A951E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraParaTestUnitario", "CalculadoraParaTestUnitario\CalculadoraParaTestUnitario.csproj", "{79AAD6A2-5EC7-4928-97DE-5DE3FD1BE146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitarios", "TestUnitarios\TestUnitarios.csproj", "{09CD9D0C-E551-42C9-A234-5DFD8EDC1827}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +157,14 @@ Global
 		{55BD9D6B-84C6-45E6-BF5D-7563A98A951E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55BD9D6B-84C6-45E6-BF5D-7563A98A951E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55BD9D6B-84C6-45E6-BF5D-7563A98A951E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79AAD6A2-5EC7-4928-97DE-5DE3FD1BE146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AAD6A2-5EC7-4928-97DE-5DE3FD1BE146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AAD6A2-5EC7-4928-97DE-5DE3FD1BE146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AAD6A2-5EC7-4928-97DE-5DE3FD1BE146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09CD9D0C-E551-42C9-A234-5DFD8EDC1827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CD9D0C-E551-42C9-A234-5DFD8EDC1827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CD9D0C-E551-42C9-A234-5DFD8EDC1827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CD9D0C-E551-42C9-A234-5DFD8EDC1827}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

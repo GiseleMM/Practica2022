@@ -1,0 +1,16 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\bin\Debug\net5.0\CalculadoraParaTestUnitario.exe
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\bin\Debug\net5.0\CalculadoraParaTestUnitario.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\bin\Debug\net5.0\CalculadoraParaTestUnitario.runtimeconfig.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\bin\Debug\net5.0\CalculadoraParaTestUnitario.runtimeconfig.dev.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\bin\Debug\net5.0\CalculadoraParaTestUnitario.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\bin\Debug\net5.0\ref\CalculadoraParaTestUnitario.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\bin\Debug\net5.0\CalculadoraParaTestUnitario.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\obj\Debug\net5.0\CalculadoraParaTestUnitario.csproj.AssemblyReference.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\obj\Debug\net5.0\CalculadoraParaTestUnitario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\obj\Debug\net5.0\CalculadoraParaTestUnitario.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\obj\Debug\net5.0\CalculadoraParaTestUnitario.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\obj\Debug\net5.0\CalculadoraParaTestUnitario.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\obj\Debug\net5.0\CalculadoraParaTestUnitario.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\obj\Debug\net5.0\ref\CalculadoraParaTestUnitario.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\obj\Debug\net5.0\CalculadoraParaTestUnitario.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\CalculadoraParaTestUnitario\obj\Debug\net5.0\CalculadoraParaTestUnitario.genruntimeconfig.cache
