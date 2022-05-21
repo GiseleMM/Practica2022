@@ -38,7 +38,7 @@ namespace FormDePracticaPrimerParcial
                     {
                         Consulta consulta = medico + paciente;// medico mas paciente me rtorna una consulta
                         MessageBox.Show(consulta.ToString());
-                    }catch(Exception ex)
+                    }catch(Exception )
                     {
                         MessageBox.Show("la consulta no se pudo realizar");
                     }

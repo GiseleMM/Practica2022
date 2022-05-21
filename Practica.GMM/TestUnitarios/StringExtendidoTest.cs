@@ -74,7 +74,7 @@ namespace TestUnitarios
         public void ContarVocales_CuandoTextoEsNull_DeberiaRetornarMiExceotion()
         {
             //arrange
-            int expected = 0;
+            
             string text = null;
 
             //act del metodo estatico
@@ -120,7 +120,7 @@ namespace TestUnitarios
         public void ContarCaracter_CuandoTextoPasoNull_DeberiaRetornarMiexcepcion()
         {
             //arrange
-            int expected = 0;
+            
             string text =null;
             char caracter = ';';
 
