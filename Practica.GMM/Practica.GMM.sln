@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosExtendidosI02Contado
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebasDeMetodosExtendidos", "PruebasDeMetodosExtendidos\PruebasDeMetodosExtendidos.csproj", "{04DF3A4D-52DA-48B1-AB20-E2535510E0EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericosConWForm", "WinFormsApp1\GenericosConWForm.csproj", "{7203E420-A0FA-43CB-A7EF-0347AD02D01C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericosConWForm", "WinFormsApp1\GenericosConWForm.csproj", "{7203E420-A0FA-43CB-A7EF-0347AD02D01C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodoExtentidoFizzBuzz", "metodoExtentidoFizzBuzz\metodoExtentidoFizzBuzz.csproj", "{AFB989EA-AD96-4789-9219-CF42581D378B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{7203E420-A0FA-43CB-A7EF-0347AD02D01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7203E420-A0FA-43CB-A7EF-0347AD02D01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7203E420-A0FA-43CB-A7EF-0347AD02D01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB989EA-AD96-4789-9219-CF42581D378B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB989EA-AD96-4789-9219-CF42581D378B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB989EA-AD96-4789-9219-CF42581D378B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB989EA-AD96-4789-9219-CF42581D378B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

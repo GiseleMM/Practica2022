@@ -1,0 +1,16 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\bin\Debug\net5.0\metodoExtentidoFizzBuzz.exe
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\bin\Debug\net5.0\metodoExtentidoFizzBuzz.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\bin\Debug\net5.0\metodoExtentidoFizzBuzz.runtimeconfig.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\bin\Debug\net5.0\metodoExtentidoFizzBuzz.runtimeconfig.dev.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\bin\Debug\net5.0\metodoExtentidoFizzBuzz.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\bin\Debug\net5.0\ref\metodoExtentidoFizzBuzz.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\bin\Debug\net5.0\metodoExtentidoFizzBuzz.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\obj\Debug\net5.0\metodoExtentidoFizzBuzz.csproj.AssemblyReference.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\obj\Debug\net5.0\metodoExtentidoFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\obj\Debug\net5.0\metodoExtentidoFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\obj\Debug\net5.0\metodoExtentidoFizzBuzz.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\obj\Debug\net5.0\metodoExtentidoFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\obj\Debug\net5.0\metodoExtentidoFizzBuzz.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\obj\Debug\net5.0\ref\metodoExtentidoFizzBuzz.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\obj\Debug\net5.0\metodoExtentidoFizzBuzz.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\metodoExtentidoFizzBuzz\obj\Debug\net5.0\metodoExtentidoFizzBuzz.genruntimeconfig.cache
