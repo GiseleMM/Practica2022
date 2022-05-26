@@ -1,0 +1,16 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\bin\Debug\net5.0\Archivos.exe
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\bin\Debug\net5.0\Archivos.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\bin\Debug\net5.0\Archivos.runtimeconfig.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\bin\Debug\net5.0\Archivos.runtimeconfig.dev.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\bin\Debug\net5.0\Archivos.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\bin\Debug\net5.0\ref\Archivos.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\bin\Debug\net5.0\Archivos.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\obj\Debug\net5.0\Archivos.csproj.AssemblyReference.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\obj\Debug\net5.0\Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\obj\Debug\net5.0\Archivos.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\obj\Debug\net5.0\Archivos.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\obj\Debug\net5.0\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\obj\Debug\net5.0\Archivos.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\obj\Debug\net5.0\ref\Archivos.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\obj\Debug\net5.0\Archivos.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Archivos\obj\Debug\net5.0\Archivos.genruntimeconfig.cache
