@@ -1,0 +1,16 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\bin\Debug\net5.0\ArchivosInformacionSobreSistOprativo.exe
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\bin\Debug\net5.0\ArchivosInformacionSobreSistOprativo.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\bin\Debug\net5.0\ArchivosInformacionSobreSistOprativo.runtimeconfig.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\bin\Debug\net5.0\ArchivosInformacionSobreSistOprativo.runtimeconfig.dev.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\bin\Debug\net5.0\ArchivosInformacionSobreSistOprativo.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\bin\Debug\net5.0\ref\ArchivosInformacionSobreSistOprativo.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\bin\Debug\net5.0\ArchivosInformacionSobreSistOprativo.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\obj\Debug\net5.0\ArchivosInformacionSobreSistOprativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\obj\Debug\net5.0\ArchivosInformacionSobreSistOprativo.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\obj\Debug\net5.0\ArchivosInformacionSobreSistOprativo.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\obj\Debug\net5.0\ArchivosInformacionSobreSistOprativo.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\obj\Debug\net5.0\ArchivosInformacionSobreSistOprativo.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\obj\Debug\net5.0\ref\ArchivosInformacionSobreSistOprativo.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\obj\Debug\net5.0\ArchivosInformacionSobreSistOprativo.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\obj\Debug\net5.0\ArchivosInformacionSobreSistOprativo.genruntimeconfig.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\ArchivosInformacionSobreSistOprativo\obj\Debug\net5.0\ArchivosInformacionSobreSistOprativo.csproj.AssemblyReference.cache

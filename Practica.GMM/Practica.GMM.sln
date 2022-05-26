@@ -65,7 +65,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "metodoExtentidoFizzBuzz", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{AE60050C-AE7B-4CA1-B990-816D2CFA5D15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerenciaNoPolimorfica", "HerenciaNoPolimorfica\HerenciaNoPolimorfica.csproj", "{FC3478A3-0E62-47D3-9B78-69279BC24B4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HerenciaNoPolimorfica", "HerenciaNoPolimorfica\HerenciaNoPolimorfica.csproj", "{FC3478A3-0E62-47D3-9B78-69279BC24B4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchivosInformacionSobreSistOprativo", "ArchivosInformacionSobreSistOprativo\ArchivosInformacionSobreSistOprativo.csproj", "{05FA2E3B-1DF4-49E7-AFCE-21F0D8121A85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{FC3478A3-0E62-47D3-9B78-69279BC24B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC3478A3-0E62-47D3-9B78-69279BC24B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC3478A3-0E62-47D3-9B78-69279BC24B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FA2E3B-1DF4-49E7-AFCE-21F0D8121A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FA2E3B-1DF4-49E7-AFCE-21F0D8121A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FA2E3B-1DF4-49E7-AFCE-21F0D8121A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FA2E3B-1DF4-49E7-AFCE-21F0D8121A85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
