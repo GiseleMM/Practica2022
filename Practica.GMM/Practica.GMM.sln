@@ -63,7 +63,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericosConWForm", "WinFor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "metodoExtentidoFizzBuzz", "metodoExtentidoFizzBuzz\metodoExtentidoFizzBuzz.csproj", "{AFB989EA-AD96-4789-9219-CF42581D378B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{AE60050C-AE7B-4CA1-B990-816D2CFA5D15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{AE60050C-AE7B-4CA1-B990-816D2CFA5D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerenciaNoPolimorfica", "HerenciaNoPolimorfica\HerenciaNoPolimorfica.csproj", "{FC3478A3-0E62-47D3-9B78-69279BC24B4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{AE60050C-AE7B-4CA1-B990-816D2CFA5D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE60050C-AE7B-4CA1-B990-816D2CFA5D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE60050C-AE7B-4CA1-B990-816D2CFA5D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3478A3-0E62-47D3-9B78-69279BC24B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3478A3-0E62-47D3-9B78-69279BC24B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3478A3-0E62-47D3-9B78-69279BC24B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3478A3-0E62-47D3-9B78-69279BC24B4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

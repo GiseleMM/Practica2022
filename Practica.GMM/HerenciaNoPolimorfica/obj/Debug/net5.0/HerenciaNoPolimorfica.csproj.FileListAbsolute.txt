@@ -1,0 +1,16 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\bin\Debug\net5.0\HerenciaNoPolimorfica.exe
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\bin\Debug\net5.0\HerenciaNoPolimorfica.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\bin\Debug\net5.0\HerenciaNoPolimorfica.runtimeconfig.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\bin\Debug\net5.0\HerenciaNoPolimorfica.runtimeconfig.dev.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\bin\Debug\net5.0\HerenciaNoPolimorfica.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\bin\Debug\net5.0\ref\HerenciaNoPolimorfica.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\bin\Debug\net5.0\HerenciaNoPolimorfica.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\obj\Debug\net5.0\HerenciaNoPolimorfica.csproj.AssemblyReference.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\obj\Debug\net5.0\HerenciaNoPolimorfica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\obj\Debug\net5.0\HerenciaNoPolimorfica.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\obj\Debug\net5.0\HerenciaNoPolimorfica.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\obj\Debug\net5.0\HerenciaNoPolimorfica.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\obj\Debug\net5.0\HerenciaNoPolimorfica.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\obj\Debug\net5.0\ref\HerenciaNoPolimorfica.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\obj\Debug\net5.0\HerenciaNoPolimorfica.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\HerenciaNoPolimorfica\obj\Debug\net5.0\HerenciaNoPolimorfica.genruntimeconfig.cache
