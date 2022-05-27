@@ -17,6 +17,12 @@ namespace Archivos
             Console.WriteLine(GestorDeArchivos.Leer("miArchivoPrueba.txt"));
             Console.WriteLine(GestorDeArchivos.Leer("ArchivoDOS.txt"));
 
+            Console.WriteLine("\nClase Gestor de archivos de texto con implementacion IArchivos<T>");
+
+            GestorArchivoTexto gta = new GestorArchivoTexto();
+            gta.Escribir("IArchivo.txt", "clase que implementa Interface Generica IArchivo<T>", false);
+            Console.WriteLine(gta.Leer("IArchivo.txt"));
+
 
         }
     }
