@@ -59,6 +59,27 @@ namespace Archivos
             return seEscribio;
         }
 
+        public static string Leer(string path)
+        {
+            string archivoLeido = string.Empty;
+            try
+            {
+                using( StreamReader sr= new StreamReader($"{GestorDeArchivos.rutaBaseEscritorio}\\{path}"))
+                {
+                    archivoLeido=sr.ReadToEnd();
+
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            return archivoLeido;
+
+
+        }
+
 
     }
 }
