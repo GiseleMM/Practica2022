@@ -1,0 +1,16 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\bin\Debug\net5.0\Serializacion.exe
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\bin\Debug\net5.0\Serializacion.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\bin\Debug\net5.0\Serializacion.runtimeconfig.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\bin\Debug\net5.0\Serializacion.runtimeconfig.dev.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\bin\Debug\net5.0\Serializacion.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\bin\Debug\net5.0\ref\Serializacion.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\bin\Debug\net5.0\Serializacion.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\obj\Debug\net5.0\Serializacion.csproj.AssemblyReference.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\obj\Debug\net5.0\Serializacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\obj\Debug\net5.0\Serializacion.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\obj\Debug\net5.0\Serializacion.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\obj\Debug\net5.0\Serializacion.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\obj\Debug\net5.0\Serializacion.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\obj\Debug\net5.0\ref\Serializacion.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\obj\Debug\net5.0\Serializacion.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\Serializacion\obj\Debug\net5.0\Serializacion.genruntimeconfig.cache

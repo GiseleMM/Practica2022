@@ -67,9 +67,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HerenciaNoPolimorfica", "HerenciaNoPolimorfica\HerenciaNoPolimorfica.csproj", "{FC3478A3-0E62-47D3-9B78-69279BC24B4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchivosInformacionSobreSistOprativo", "ArchivosInformacionSobreSistOprativo\ArchivosInformacionSobreSistOprativo.csproj", "{05FA2E3B-1DF4-49E7-AFCE-21F0D8121A85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchivosInformacionSobreSistOprativo", "ArchivosInformacionSobreSistOprativo\ArchivosInformacionSobreSistOprativo.csproj", "{05FA2E3B-1DF4-49E7-AFCE-21F0D8121A85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archivos", "Archivos\Archivos.csproj", "{8485806C-6D2C-412A-8277-81115C35586E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Archivos", "Archivos\Archivos.csproj", "{8485806C-6D2C-412A-8277-81115C35586E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializacion", "Serializacion\Serializacion.csproj", "{327D5D53-83A3-4A65-A868-BA8A49C0F53A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{8485806C-6D2C-412A-8277-81115C35586E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8485806C-6D2C-412A-8277-81115C35586E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8485806C-6D2C-412A-8277-81115C35586E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327D5D53-83A3-4A65-A868-BA8A49C0F53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327D5D53-83A3-4A65-A868-BA8A49C0F53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327D5D53-83A3-4A65-A868-BA8A49C0F53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327D5D53-83A3-4A65-A868-BA8A49C0F53A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
