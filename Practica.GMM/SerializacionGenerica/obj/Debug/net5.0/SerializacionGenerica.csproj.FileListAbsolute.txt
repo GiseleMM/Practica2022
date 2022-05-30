@@ -1,0 +1,16 @@
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\bin\Debug\net5.0\SerializacionGenerica.exe
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\bin\Debug\net5.0\SerializacionGenerica.deps.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\bin\Debug\net5.0\SerializacionGenerica.runtimeconfig.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\bin\Debug\net5.0\SerializacionGenerica.runtimeconfig.dev.json
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\bin\Debug\net5.0\SerializacionGenerica.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\bin\Debug\net5.0\ref\SerializacionGenerica.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\bin\Debug\net5.0\SerializacionGenerica.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\obj\Debug\net5.0\SerializacionGenerica.csproj.AssemblyReference.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\obj\Debug\net5.0\SerializacionGenerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\obj\Debug\net5.0\SerializacionGenerica.AssemblyInfoInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\obj\Debug\net5.0\SerializacionGenerica.AssemblyInfo.cs
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\obj\Debug\net5.0\SerializacionGenerica.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\obj\Debug\net5.0\SerializacionGenerica.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\obj\Debug\net5.0\ref\SerializacionGenerica.dll
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\obj\Debug\net5.0\SerializacionGenerica.pdb
+C:\Users\RCA\Desktop\Practica2022\Practica2022\Practica.GMM\SerializacionGenerica\obj\Debug\net5.0\SerializacionGenerica.genruntimeconfig.cache
