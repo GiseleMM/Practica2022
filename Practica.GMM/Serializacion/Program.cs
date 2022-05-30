@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Xml.Serialization;
 
 namespace Serializacion
 {
@@ -42,20 +44,46 @@ namespace Serializacion
             //Serializadora.Serializar_streamWriter("ProfeConHerencia.xml", p);
 
 
-            Profesor p2 = Serializadora.Deserializar_StreamReader("ProfeConHerencia.xml") as Profesor; 
-            if(p2 is not null)
+            //Profesor p2 = Serializadora.Deserializar_StreamReader("ProfeConHerencia.xml") as Profesor; 
+            //if(p2 is not null)
+            //{
+            //    Console.WriteLine(p2.ToString());
+            //}
+            //Alumno a3 = Serializadora.Deserializar_StreamReader("alumnoConHerencia.xml") as Alumno;// alumno.xml no lo desSerialize  por que modique la clase con Herencia y no  lo toma
+            //if(a3 is not null)
+            //{
+            //    Console.WriteLine(a3.ToString());
+            //}
+            //Alumno a4 = Serializadora.Deserializar_StreamReader("alumno.xml") as Alumno;// alumno.xml  lo pude deserializar por que lo volvi a serializar con las modificaciones q hice a la clase
+            //{
+            //    Console.WriteLine(a4.ToString());
+            //}
+
+            
+            string[] info = Directory.GetFiles($"{Environment.GetFolderPath(Environment.SpecialFolder.Desktop)}\\Archivos_serializados\\"); 
+           
+            if(info is not null)
             {
-                Console.WriteLine(p2.ToString());
+                List<Persona> listaDePersona = new List<Persona>();
+                Persona a = null;
+                foreach (string item in info)
+                {
+
+                    //listaDePersona.Add( Serializadora.Deserializar_StreamReader(item));
+                    // no funciona por que tiene incluida la ruta dentro de la clase; 
+                    listaDePersona.Add(Serializadora.Deserializar_SinRuta(item));
+
+                 
+
+                }
+
+                foreach (var item in listaDePersona)
+                {
+                    Console.WriteLine(item.ToString());
+                }
             }
-            Alumno a3 = Serializadora.Deserializar_StreamReader("alumnoConHerencia.xml") as Alumno;// alumno.xml no lo desSerialize  por que modique la clase con Herencia y no  lo toma
-            if(a3 is not null)
-            {
-                Console.WriteLine(a3.ToString());
-            }
-            Alumno a4 = Serializadora.Deserializar_StreamReader("alumno.xml") as Alumno;// alumno.xml  lo pude deserializar por que lo volvi a serializar con las modificaciones q hice a la clase
-            {
-                Console.WriteLine(a4.ToString());
-            }
+           
+
         }
     }
 }

@@ -112,6 +112,28 @@ namespace Serializacion
             return a;
         }
 
+        public static Persona Deserializar_SinRuta(string nombreArchivo)
+        {
+            Persona a = null;
+            try
+            {
+                using (XmlTextReader xmlReader = new XmlTextReader(nombreArchivo))
+                {
+
+                    XmlSerializer xml = new XmlSerializer(typeof(Persona));// loque va a convertir
+                    a = xml.Deserialize(xmlReader) as Persona;// con esto paso del archivo.xml a objeto y con as casteo y obtengo alumno
+
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Metodo deserializar_xmlTextReader con paramentro");
+                Console.Write(nombreArchivo);
+                Console.WriteLine(e.Message);
+            }
+            return a;
+        }
+
 
     }
 }
