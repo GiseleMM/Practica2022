@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFlor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Flor xsi:type="Rosa">
+    <Nombre>Amarilla</Nombre>
+    <Tipo>Reina</Tipo>
+    <Altura>1</Altura>
+    <Time>2022-06-03T00:00:00-03:00</Time>
+  </Flor>
+  <Flor xsi:type="Rosa">
+    <Nombre>Roja</Nombre>
+    <Tipo>Terciopelo</Tipo>
+    <Altura>1.5</Altura>
+    <Time>2022-06-03T00:00:00-03:00</Time>
+  </Flor>
+</ArrayOfFlor>

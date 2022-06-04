@@ -65,7 +65,7 @@ namespace Serializacion
             if(info is not null)
             {
                 List<Persona> listaDePersona = new List<Persona>();
-                Persona a = null;
+               // Persona a = null;
                 foreach (string item in info)
                 {
 
